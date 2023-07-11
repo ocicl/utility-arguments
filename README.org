@@ -1,10 +1,9 @@
 * utility-arguments
 
+Common Lisp utility to handle command-line arguments.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/fau/utility-arguments.git   |
-| commit  | {"messa  |
-| systems | utility-arguments |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://gitlab.com/fau/utility-arguments.git |
+| commit  | c26c7e32                                         |
+| systems | utility-arguments                                |
+|---------+--------------------------------------------------|
